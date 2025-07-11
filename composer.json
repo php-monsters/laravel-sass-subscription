@@ -1,8 +1,7 @@
 {
-    "name": "php-montsers/sasscription",
+    "name": "php-monsters/sasscription",
     "description": "A simple interface for managing subscriptions and feature usage in Laravel-based SaaS applications.",
     "keywords": [
-        "lucasdotvin",
         "laravel",
         "laravel-sasscription",
         "subscriptions"
